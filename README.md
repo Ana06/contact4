@@ -1,2 +1,2 @@
 # Contact 4
-The Contact 4 game implemented in C++ using the minimax algorithm and different heuristics. Implemented in May 2014. Comments and report in Spanish.
+The Contact 4 game implemented in C++ using the minimax algorithm, different heuristics and alpha–beta pruning. Implemented in May 2014. Comments and report in Spanish.
